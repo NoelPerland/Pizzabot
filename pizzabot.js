@@ -43,7 +43,7 @@ if (orderName === vegetarian || orderName === hawaiian || pepperoni) {
   alert(
     "Fantastic choice. I will get started on your " +
       orderName +
-      " right away. Your final total will be " +
+      " right away. Your total will be " +
       orderTotal +
       ":-"
   );
